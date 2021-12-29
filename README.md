@@ -2,6 +2,8 @@
 
 Custom theme based on [obraun theme](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#obraun)
 
+![Ivy ZSH Theme preview](preview.png?raw=true "preview")
+
 ## Install
 
 Download the theme:
